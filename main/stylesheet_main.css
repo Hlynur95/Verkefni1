@@ -1,0 +1,25 @@
+body {
+    background-image: url("../pictures/main/background.jpg");
+    background-color: #cccccc;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.overwatch_logo{
+    width: auto;
+    height: auto;
+}
+.text_decoration{
+    text-decoration: none;
+    color: white;
+}
